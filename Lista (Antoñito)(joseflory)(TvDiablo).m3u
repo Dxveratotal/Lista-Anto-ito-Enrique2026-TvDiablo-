@@ -1,60 +1,228 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="Es: LA 1 HD" tvg-logo="http://husscom.com:8080/images/451e4d478d20e943869b39bbfe9edd92.png" group-title="TDT",Es: LA 1 HD
-http://tv.diablotv.net:8080/Enrique2026/BCBp8HN3fYeh/8192
+http://tv.diablotv.net:8080/joseflory/3Dtc5rWA67/8192
 #EXTINF:-1 tvg-id="" tvg-name="Es: LA 1 FHD" tvg-logo="http://husscom.com:8080/images/451e4d478d20e943869b39bbfe9edd92.png" group-title="TDT",Es: LA 1 FHD
-http://tv.diablotv.net:8080/Enrique2026/BCBp8HN3fYeh/161897
+http://tv.diablotv.net:8080/joseflory/3Dtc5rWA67/161897
 #EXTINF:-1 tvg-id="" tvg-name="Es: La 2 HD" tvg-logo="http://husscom.com:8080/images/22d8aad718c82778bf449700c48e19b2.png" group-title="TDT",Es: La 2 HD
-http://tv.diablotv.net:8080/Enrique2026/BCBp8HN3fYeh/8193
+http://tv.diablotv.net:8080/joseflory/3Dtc5rWA67/8193
 #EXTINF:-1 tvg-id="" tvg-name="Es: La 2 FHD" tvg-logo="http://husscom.com:8080/images/22d8aad718c82778bf449700c48e19b2.png" group-title="TDT",Es: La 2 FHD
-http://tv.diablotv.net:8080/Enrique2026/BCBp8HN3fYeh/161896
+http://tv.diablotv.net:8080/joseflory/3Dtc5rWA67/161896
 #EXTINF:-1 tvg-id="" tvg-name="Es: Antena 3" tvg-logo="https://static.epg.best/es/Antena3.es.png" group-title="TDT",Es: Antena 3
-http://tv.diablotv.net:8080/Enrique2026/BCBp8HN3fYeh/8143
+http://tv.diablotv.net:8080/joseflory/3Dtc5rWA67/8143
 #EXTINF:-1 tvg-id="" tvg-name="Es: Antena 3 FHD" tvg-logo="https://static.epg.best/es/Antena3.es.png" group-title="TDT",Es: Antena 3 FHD
-http://tv.diablotv.net:8080/Enrique2026/BCBp8HN3fYeh/161895
+http://tv.diablotv.net:8080/joseflory/3Dtc5rWA67/161895
 #EXTINF:-1 tvg-id="" tvg-name="Es: Cuatro HD" tvg-logo="http://husscom.com:8080/images/4c4029ef445d5489e6b8e4e012d8463b.png" group-title="TDT",Es: Cuatro HD
-http://tv.diablotv.net:8080/Enrique2026/BCBp8HN3fYeh/162005
+http://tv.diablotv.net:8080/joseflory/3Dtc5rWA67/162005
 #EXTINF:-1 tvg-id="" tvg-name="Es: Cuatro FHD" tvg-logo="http://husscom.com:8080/images/4c4029ef445d5489e6b8e4e012d8463b.png" group-title="TDT",Es: Cuatro FHD
-http://tv.diablotv.net:8080/Enrique2026/BCBp8HN3fYeh/161894
+http://tv.diablotv.net:8080/joseflory/3Dtc5rWA67/161894
 #EXTINF:-1 tvg-id="" tvg-name="Es: Telecinco HD" tvg-logo="http://husscom.com:8080/images/a12b689fc725ceb9b648c9ed1ac1b854.png" group-title="TDT",Es: Telecinco HD
-http://tv.diablotv.net:8080/Enrique2026/BCBp8HN3fYeh/8241
+http://tv.diablotv.net:8080/joseflory/3Dtc5rWA67/8241
 #EXTINF:-1 tvg-id="" tvg-name="Es: Telecinco FHD" tvg-logo="http://husscom.com:8080/images/a12b689fc725ceb9b648c9ed1ac1b854.png" group-title="TDT",Es: Telecinco FHD
-http://tv.diablotv.net:8080/Enrique2026/BCBp8HN3fYeh/8242
+http://tv.diablotv.net:8080/joseflory/3Dtc5rWA67/8242
 #EXTINF:-1 tvg-id="" tvg-name="Es: LA Sexta" tvg-logo="http://husscom.com:8080/images/f9890c8dde99583fa836cadbad2723f3.png" group-title="TDT",Es: LA Sexta
-http://tv.diablotv.net:8080/Enrique2026/BCBp8HN3fYeh/8195
+http://tv.diablotv.net:8080/joseflory/3Dtc5rWA67/8195
 #EXTINF:-1 tvg-id="" tvg-name="Es: LA Sexta FHD" tvg-logo="http://husscom.com:8080/images/f9890c8dde99583fa836cadbad2723f3.png" group-title="TDT",Es: LA Sexta FHD
-http://tv.diablotv.net:8080/Enrique2026/BCBp8HN3fYeh/162004
+http://tv.diablotv.net:8080/joseflory/3Dtc5rWA67/162004
 #EXTINF:-1 tvg-id="" tvg-name="Es: Neox" tvg-logo="http://husscom.com:8080/images/e0c6ccb46d67a4384a6c2f4bf196ea49.png" group-title="TDT",Es: Neox
-http://tv.diablotv.net:8080/Enrique2026/BCBp8HN3fYeh/8223
+http://tv.diablotv.net:8080/joseflory/3Dtc5rWA67/8223
 #EXTINF:-1 tvg-id="" tvg-name="Es: Neox HD" tvg-logo="http://husscom.com:8080/images/e0c6ccb46d67a4384a6c2f4bf196ea49.png" group-title="TDT",Es: Neox HD
-http://tv.diablotv.net:8080/Enrique2026/BCBp8HN3fYeh/161889
+http://tv.diablotv.net:8080/joseflory/3Dtc5rWA67/161889
 #EXTINF:-1 tvg-id="" tvg-name="Es: Nova" tvg-logo="http://husscom.com:8080/images/b499034ca4d04c141bf4e0fce548351a.jpg" group-title="TDT",Es: Nova
-http://tv.diablotv.net:8080/Enrique2026/BCBp8HN3fYeh/161983
+http://tv.diablotv.net:8080/joseflory/3Dtc5rWA67/161983
 #EXTINF:-1 tvg-id="" tvg-name="Es: Mega" tvg-logo="http://husscom.com:8080/images/4e401aad7a270a7be2fd4c11f48563c5.png" group-title="TDT",Es: Mega
-http://tv.diablotv.net:8080/Enrique2026/BCBp8HN3fYeh/8205
+http://tv.diablotv.net:8080/joseflory/3Dtc5rWA67/8205
 #EXTINF:-1 tvg-id="" tvg-name="Es: Mega HD" tvg-logo="http://husscom.com:8080/images/4e401aad7a270a7be2fd4c11f48563c5.png" group-title="TDT",Es: Mega HD
-http://tv.diablotv.net:8080/Enrique2026/BCBp8HN3fYeh/8204
+http://tv.diablotv.net:8080/joseflory/3Dtc5rWA67/8204
 #EXTINF:-1 tvg-id="" tvg-name="Es: Fdf | Factoria De Ficcion HD" tvg-logo="http://husscom.com:8080/images/5583c187a9c036ac6995afaea8cf57e7.png" group-title="TDT",Es: FDF | Factoria De Ficcion HD
-http://tv.diablotv.net:8080/Enrique2026/BCBp8HN3fYeh/161963
+http://tv.diablotv.net:8080/joseflory/3Dtc5rWA67/161963
 #EXTINF:-1 tvg-id="" tvg-name="Es: 24 Horas" tvg-logo="http://husscom.com:8080/images/b77eece712e65a6ee5f53c46fab66fad.png" group-title="TDT",Es: 24 Horas
-http://tv.diablotv.net:8080/Enrique2026/BCBp8HN3fYeh/8136
+http://tv.diablotv.net:8080/joseflory/3Dtc5rWA67/8136
 #EXTINF:-1 tvg-id="" tvg-name="Es: Mundo Toros" tvg-logo="http://23.153.216.121:25461/images/5102ce3be98d74f57156e462a208ae35.png" group-title="TDT",Es: Mundo Toros
-http://tv.diablotv.net:8080/Enrique2026/BCBp8HN3fYeh/8217
+http://tv.diablotv.net:8080/joseflory/3Dtc5rWA67/8217
 #EXTINF:-1 tvg-id="" tvg-name="Es: Mundo Toros 2" tvg-logo="http://23.153.216.121:25461/images/5102ce3be98d74f57156e462a208ae35.png" group-title="TDT",Es: Mundo Toros 2
-http://tv.diablotv.net:8080/Enrique2026/BCBp8HN3fYeh/161948
+http://tv.diablotv.net:8080/joseflory/3Dtc5rWA67/161948
 #EXTINF:-1 tvg-id="" tvg-name="ES: Canal Sur A." tvg-logo="http://husscom.com:8080/images/6676b84004d2d3910e09e07566142ae0.png" group-title="TDT",ES: Canal Sur A.
-http://tv.diablotv.net:8080/Enrique2026/BCBp8HN3fYeh/161934
+http://tv.diablotv.net:8080/joseflory/3Dtc5rWA67/161934
 #EXTINF:-1 tvg-id="" tvg-name="Es: Cosmo HD" tvg-logo="http://husscom.com:8080/images/4d55dd6658a7bcac9ccd2b46bbba7a08.png" group-title="TDT",Es: Cosmo HD
-http://tv.diablotv.net:8080/Enrique2026/BCBp8HN3fYeh/161913
+http://tv.diablotv.net:8080/joseflory/3Dtc5rWA67/161913
 #EXTINF:-1 tvg-id="" tvg-name="Es: Cosmo FHD" tvg-logo="http://husscom.com:8080/images/4d55dd6658a7bcac9ccd2b46bbba7a08.png" group-title="TDT",Es: Cosmo FHD
-http://tv.diablotv.net:8080/Enrique2026/BCBp8HN3fYeh/161970
+http://tv.diablotv.net:8080/joseflory/3Dtc5rWA67/161970
 #EXTINF:-1 tvg-id="" tvg-name="Es: Comedy Central HD" tvg-logo="http://husscom.com:8080/images/d10d26f6c1f769d4d7f5537177a16023.jpg" group-title="TDT",Es: Comedy Central HD
-http://tv.diablotv.net:8080/Enrique2026/BCBp8HN3fYeh/161971
+http://tv.diablotv.net:8080/joseflory/3Dtc5rWA67/161971
 #EXTINF:-1 tvg-id="" tvg-name="Es: Comedy Central FHD" tvg-logo="http://husscom.com:8080/images/d10d26f6c1f769d4d7f5537177a16023.jpg" group-title="TDT",Es: Comedy Central FHD
-http://tv.diablotv.net:8080/Enrique2026/BCBp8HN3fYeh/161920
+http://tv.diablotv.net:8080/joseflory/3Dtc5rWA67/161920
 #EXTINF:-1 tvg-id="" tvg-name="Es: Teledeporte HD" tvg-logo="http://husscom.com:8080/images/8f7468b393805fc6d2193247509f4707.png" group-title="TDT",Es: Teledeporte HD
-http://tv.diablotv.net:8080/Enrique2026/BCBp8HN3fYeh/8243
+http://tv.diablotv.net:8080/joseflory/3Dtc5rWA67/8243
 #EXTINF:-1 tvg-id="" tvg-name="Es: Teledeporte | TDP FHD" tvg-logo="http://husscom.com:8080/images/8f7468b393805fc6d2193247509f4707.png" group-title="TDT",Es: Teledeporte | TDP FHD
-http://tv.diablotv.net:8080/Enrique2026/BCBp8HN3fYeh/161951
+http://tv.diablotv.net:8080/joseflory/3Dtc5rWA67/161951
+#EXTINF:-1 tvg-id="" tvg-name="TRECE" tvg-logo="https://scontent.fvlc4-1.fna.fbcdn.net/v/t39.30808-1/309192564_508875984579114_8242850008910154638_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=103&ccb=1-7&_nc_sid=08baa4&_nc_ohc=Q7YVTlbQS_wQ7kNvwEFP2SJ&_nc_oc=AdrUgyp0uvHuoRNKo5QJFR4zwiztEOJUeHHTrIgixY9Vq_LQ8SztZB4SocWJZBMdZbo&_nc_zt=24&_nc_ht=scontent.fvlc4-1.fna&edm=AKsJ254EAAAA&_nc_gid=pmogVU4K7sJwm3fy1Ej15Q&oh=00_Af13VJMkFrEyF_R2tEapUCzwCF1-DmnQoWNlkk5mHreB4w&oe=69F64EC5" group-title="TDT",TRECE
+http://tv.diablotv.net:8080/joseflory/3Dtc5rWA67/161949
+#EXTINF:-1 tvg-id="" tvg-name="Es: Divinity" tvg-logo="http://husscom.com:8080/images/48d82df633697c1b623f6a7824a8941c.png" group-title="TDT",Es: Divinity
+http://tv.diablotv.net:8080/joseflory/3Dtc5rWA67/161965
+#EXTINF:-1 tvg-id="" tvg-name="Es: Ten" tvg-logo="http://husscom.com:8080/images/9e1cedf8ae245b0650c81ffbf53f1eb4.png" group-title="TDT",Es: Ten
+http://visuales.xyz:8080/restreampropio/wM6S6uRQWkJh/797842
+#EXTINF:-1 tvg-id="" tvg-name="Es: Dkiss" tvg-logo="http://vod-logo.net/photos/f4a16e528b238e10d98caa015b27ace6.webp" group-title="TDT",Es: Dkiss
+http://tv.diablotv.net:8080/joseflory/3Dtc5rWA67/161964
+#EXTINF:-1 tvg-id="" tvg-name="Es: Dmax" tvg-logo="http://husscom.com:8080/images/c525135dbb9a521c8bdf34afd76a4bb6.JPG" group-title="TDT",Es: Dmax
+http://tv.diablotv.net:8080/joseflory/3Dtc5rWA67/161937
+#EXTINF:-1 tvg-id="" tvg-name="Es: Odisea" tvg-logo="http://husscom.com:8080/images/ea5ebe7291abbc7134dcf46e886f41dd.png" group-title="TDT",Es: Odisea
+http://tv.diablotv.net:8080/joseflory/3Dtc5rWA67/8229
+#EXTINF:-1 tvg-id="" tvg-name="ES: Bom Cine" tvg-logo="http://husscom.com:8080/images/06c4f9fff7e0d412d86ae97453578dce.png" group-title="TDT",ES: Bom Cine
+http://tv.diablotv.net:8080/joseflory/3Dtc5rWA67/8154
+#EXTINF:-1 tvg-id="" tvg-name="ES: Somos" " tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SOMOS.png" group-title="TDT",ES: Somos" 
+http://tv.diablotv.net:8080/joseflory/3Dtc5rWA67/8234
+#EXTINF:-1 tvg-id="" tvg-name="Es: Tcm HD" tvg-logo="http://husscom.com:8080/images/641eeb33800eee93e02a5b6695caaf7b.png" group-title="TDT",Es: Tcm HD
+http://tv.diablotv.net:8080/joseflory/3Dtc5rWA67/8239
+#EXTINF:-1 tvg-id="" tvg-name="Es: Tcm FHD" tvg-logo="http://husscom.com:8080/images/641eeb33800eee93e02a5b6695caaf7b.png" group-title="TDT",Es: Tcm FHD
+http://tv.diablotv.net:8080/joseflory/3Dtc5rWA67/161989
+#EXTINF:-1 tvg-id="" tvg-name="Es: Paramount Channel" tvg-logo="http://husscom.com:8080/images/69a4a839947468ce8f4da573750b847c.png" group-title="TDT",Es: Paramount Channel
+http://tv.diablotv.net:8080/joseflory/3Dtc5rWA67/8231
+#EXTINF:-1 tvg-id="" tvg-name="Es: Energy" tvg-logo="http://husscom.com:8080/images/d794549145a21446bb4acbec9effbbb1.png" group-title="TDT",Es: Energy
+http://tv.diablotv.net:8080/joseflory/3Dtc5rWA67/8179
+#EXTINF:-1 tvg-id="" tvg-name="Es: Calle 13 HD" tvg-logo="http://husscom.com:8080/images/c50b35a1acd2359b7bc1fcd7ef1c906b.png" group-title="TDT",Es: Calle 13 HD
+http://tv.diablotv.net:8080/joseflory/3Dtc5rWA67/8156
+#EXTINF:-1 tvg-id="" tvg-name="Es: Calle 13 FHD" tvg-logo="http://husscom.com:8080/images/44546ac7cdd63063b765a6eddfaa832d.png" group-title="TDT",Es: Calle 13 FHD
+http://tv.diablotv.net:8080/joseflory/3Dtc5rWA67/161886
+#EXTINF:-1 tvg-id="" tvg-name="Es: SyFy HD" tvg-logo="http://husscom.com:8080/images/3acae83903f49e82d01ccac977643442.jpg" group-title="TDT",Es: SyFy HD
+http://tv.diablotv.net:8080/joseflory/3Dtc5rWA67/161990
+#EXTINF:-1 tvg-id="" tvg-name="Es: SyFy FHD" tvg-logo="http://husscom.com:8080/images/3acae83903f49e82d01ccac977643442.jpg" group-title="TDT",Es: SyFy FHD
+http://tv.diablotv.net:8080/joseflory/3Dtc5rWA67/162015
+#EXTINF:-1 tvg-id="" tvg-name="Es: Be Mad HD" tvg-logo="http://husscom.com:8080/images/be34cf5604acb75c130fdb654540a4c9.png" group-title="TDT",Es: Be Mad HD
+http://tv.diablotv.net:8080/joseflory/3Dtc5rWA67/161977
+#EXTINF:-1 tvg-id="" tvg-name="Es: Boing" tvg-logo="http://husscom.com:8080/images/4f3dfb4858e2dd329f77aff47d375e3e.png" group-title="TDT",Es: Boing
+http://tv.diablotv.net:8080/joseflory/3Dtc5rWA67/161984
+#EXTINF:-1 tvg-id="" tvg-name="Dreamworks" tvg-logo="https://i.postimg.cc/J0151rR3/logo-Dream-Works-1.png" group-title="PREMIUM",Dreamworks
+http://tv.diablotv.net:8080/joseflory/3Dtc5rWA67/8201
+#EXTINF:-1 tvg-id="" tvg-name="Es: Xtrm HD" tvg-logo="https://i.ibb.co/jRTVnt5/XTRM.png" group-title="PREMIUM",Es: Xtrm HD
+http://tv.diablotv.net:8080/joseflory/3Dtc5rWA67/8254
+#EXTINF:-1 tvg-id="" tvg-name="Es: AmcHD" tvg-logo="http://husscom.com:8080/images/02c3daca92ab62d012ce515f1d8f490f.jpg" group-title="PREMIUM",Es: Amc HD
+http://tv.diablotv.net:8080/joseflory/3Dtc5rWA67/8140
+#EXTINF:-1 tvg-id="" tvg-name="Es: Axn HD" tvg-logo="http://husscom.com:8080/images/a35ba958943d8afbcd3453736bf32f5e.jpg" group-title="PREMIUM",Es: Axn HD
+http://tv.diablotv.net:8080/joseflory/3Dtc5rWA67/161980
+#EXTINF:-1 tvg-id="" tvg-name="Es: Axn White HD" tvg-logo="http://husscom.com:8080/images/ae41c957f66a659bac0f5b52f5cc8819.jpg" group-title="PREMIUM",Es: Axn White HD
+http://tv.diablotv.net:8080/joseflory/3Dtc5rWA67/161979
+#EXTINF:-1 tvg-id="" tvg-name="Es: Axn White FHD" tvg-logo="http://husscom.com:8080/images/ae41c957f66a659bac0f5b52f5cc8819.jpg" group-title="PREMIUM",Es: Axn White FHD
+http://tv.diablotv.net:8080/joseflory/3Dtc5rWA67/161884
+#EXTINF:-1 tvg-id="" tvg-name="Es: Hollywood HD" tvg-logo="http://husscom.com:8080/images/ff605a25d88c1d9f12923ae855136045.png" group-title="PREMIUM",Es: Hollywood HD
+http://tv.diablotv.net:8080/joseflory/3Dtc5rWA67/161917
+#EXTINF:-1 tvg-id="" tvg-name="Es: Hollywood FHD" tvg-logo="http://husscom.com:8080/images/ff605a25d88c1d9f12923ae855136045.png" group-title="PREMIUM",Es: Hollywood FHD
+http://tv.diablotv.net:8080/joseflory/3Dtc5rWA67/161985
+#EXTINF:-1 tvg-id="DARK" tvg-name="Es: Dark" tvg-logo="https://ipmark.com/wp-content/uploads/2016/10/DARK-Canal-Televisi%C3%B3n-Terror.png" group-title="PREMIUM",Es: Dark
+http://tv.diablotv.net:8080/joseflory/3Dtc5rWA67/8168
+#EXTINF:-1 tvg-id="" tvg-name="Es: Fox HD" tvg-logo="http://husscom.com:8080/images/4f06e871b6a72d9508aac76078387117.jpg" group-title="PREMIUM",Es: Fox HD
+http://tv.diablotv.net:8080/joseflory/3Dtc5rWA67/161887
+#EXTINF:-1 tvg-id="" tvg-name="Es: Fox FHD" tvg-logo="http://husscom.com:8080/images/4f06e871b6a72d9508aac76078387117.jpg" group-title="PREMIUM",Es: Fox FHD
+http://tv.diablotv.net:8080/joseflory/3Dtc5rWA67/161888
+#EXTINF:-1 tvg-id="" tvg-name="Es: Warner TV" tvg-logo="https://i.ibb.co/yY3TYhg/TNT.png" group-title="PREMIUM",Es: Warner TV
+http://tv.diablotv.net:8080/joseflory/3Dtc5rWA67/161987
+#EXTINF:-1 tvg-id="" tvg-name="Es: M+ Estrenos HD" tvg-logo="http://husscom.com:8080/images/0d5de540c8c15efda25edd3aeed3fe35.png" group-title="PREMIUM",Es: M+ Estrenos HD
+http://husscom.com:8080/ministra/axsdft/132349
+#EXTINF:-1 tvg-id="" tvg-name="Es: M+ Estrenos FHD" tvg-logo="http://husscom.com:8080/images/f9a69ad0bc68119a650c02d3410797d1.png" group-title="PREMIUM",Es: M+ Estrenos FHD
+http://husscom.com:8080/ministra/axsdft/132351
+#EXTINF:-1 tvg-id="" tvg-name="Es: M+ Accion HD" tvg-logo="http://husscom.com:8080/images/375a491183f09c4ff0701ee6743a9333.png" group-title="PREMIUM",Es: M+ Accion HD
+http://tv.diablotv.net:8080/joseflory/3Dtc5rWA67/161909
+#EXTINF:-1 tvg-id="" tvg-name="Accion por M+ FHD" tvg-logo="http://husscom.com:8080/images/375a491183f09c4ff0701ee6743a9333.png" group-title="PREMIUM",Accion por M+ FHD
+http://tv.diablotv.net:8080/joseflory/3Dtc5rWA67/162000
+#EXTINF:-1 tvg-id="" tvg-name="Es: M+ Hits" tvg-logo="https://www.movistarplus.es/recorte/m-DP/modmarcas/MHITSH" group-title="PREMIUM",Es: M+ Hits
+http://tv.diablotv.net:8080/joseflory/3Dtc5rWA67/161901
+#EXTINF:-1 tvg-id="" tvg-name="Es: M+ Hits HD" tvg-logo="https://www.movistarplus.es/recorte/m-DP/modmarcas/MHITSH" group-title="PREMIUM",Es: M+ Hits HD
+http://tv.diablotv.net:8080/joseflory/3Dtc5rWA67/8203
+#EXTINF:-1 tvg-id="" tvg-name="Es: M+ Drama HD" tvg-logo="http://husscom.com:8080/images/e402850d8aa7018647626032a69381da.png" group-title="PREMIUM",Es: M+ Drama HD
+http://tv.diablotv.net:8080/joseflory/3Dtc5rWA67/8200
+#EXTINF:-1 tvg-id="" tvg-name="Es: M+ Comedia FHD" tvg-logo="http://husscom.com:8080/images/5fd887239be753eb6bbc6ff99a9a79e9.png" group-title="PREMIUM",Es: M+ Comedia FHD
+http://tv.diablotv.net:8080/joseflory/3Dtc5rWA67/8198
+#EXTINF:-1 tvg-id="" tvg-name="Es: M. Clasicos HD" tvg-logo="https://i.postimg.cc/YS2Kn06H/Cl-sicos-por-Movistar-Plus-2023-Logo-svg.png" group-title="PREMIUM",Es: M. Clasicos HD
+http://tv.diablotv.net:8080/joseflory/3Dtc5rWA67/8197
+#EXTINF:-1 tvg-id="" tvg-name="Es: M+ La Liga HD" tvg-logo="http://husscom.com:8080/images/70dff992ab2336a17d9ee16ba780dc94.png" group-title="LIGA ESPAÑOLA",Es: M+ La Liga HD
+http://tv.diablotv.net:8080/joseflory/3Dtc5rWA67/162017
+#EXTINF:-1 tvg-id="" tvg-name="Es: M+ La Liga FHD" tvg-logo="http://husscom.com:8080/images/70dff992ab2336a17d9ee16ba780dc94.png" group-title="LIGA ESPAÑOLA",Es: M+ La Liga FHD
+http://tv.diablotv.net:8080/joseflory/3Dtc5rWA67/162018
+#EXTINF:-1 tvg-id="" tvg-name="Es: M+ La Liga 2 HD" tvg-logo="http://husscom.com:8080/images/28af0dbaa809e83018867a2018239884.png" group-title="LIGA ESPAÑOLA",Es: M+ La Liga 2 HD
+http://visuales.xyz:8080/restreampropio/wM6S6uRQWkJh/132387
+#EXTINF:-1 tvg-id="M+ LaLiga 2 HD" tvg-name="M+ La Liga 2" tvg-logo="http://husscom.com:8080/images/28af0dbaa809e83018867a2018239884.png" group-title="LIGA ESPAÑOLA",M+ La Liga 2
+http://visuales.xyz:8080/restreampropio/wM6S6uRQWkJh/298115
+#EXTINF:-1 tvg-id="" tvg-name="Es: DAZN LaLiga HD" tvg-logo="http://husscom.com:8080/images/5bd4bf570c34224f0b2d15e3ddcd833d.png" group-title="LIGA ESPAÑOLA",Es: DAZN LaLiga HD
+http://tv.diablotv.net:8080/joseflory/3Dtc5rWA67/156156
+#EXTINF:-1 tvg-id="DAZN LaLiga HD" tvg-name="Es: DAZN LaLiga" tvg-logo="https://i.ibb.co/xKt0bzCH/Eventos-VIP4.png" group-title="LIGA ESPAÑOLA",Es: DAZN LaLiga
+http://tv.diablotv.net:8080/joseflory/3Dtc5rWA67/156157
+#EXTINF:-1 tvg-id="DAZN LaLiga 2 HD" tvg-name="Es: DAZN LaLiga 2" tvg-logo="https://i.ibb.co/mCmBpbGr/dzl2.png" group-title="LIGA ESPAÑOLA",Es: DAZN LaLiga 2
+hhttp://visuales.xyz:8080/restreampropio/wM6S6uRQWkJh/279009
+#EXTINF:-1 tvg-id="" tvg-name="Es: M+ Campeones HD" tvg-logo="http://husscom.com:8080/images/e8cf76b3b1c06620fbd35f438b739ca3.png" group-title="LIGA CAMPEONES",Es: M+ Campeones HD
+http://tv.diablotv.net:8080/joseflory/3Dtc5rWA67/162012
+#EXTINF:-1 tvg-id="" tvg-name="Es: M+ Campeones 1" tvg-logo="http://husscom.com:8080/images/e8cf76b3b1c06620fbd35f438b739ca3.png" group-title="LIGA CAMPEONES",Es: M+ Campeones 1
+http://tv.diablotv.net:8080/joseflory/3Dtc5rWA67/162019
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 2 HD" tvg-name="Es: M+ Campeones 2" tvg-logo="https://i.ibb.co/H7yHwVW/ligacampeones.png" group-title="LIGA CAMPEONES",Es: M+ Campeones 2
+http://visuales.xyz:8080/restreampropio/wM6S6uRQWkJh/159045
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 2 HD" tvg-name="Es: M+ Campeones 2 HD" tvg-logo="https://i.ibb.co/H7yHwVW/ligacampeones.png" group-title="LIGA CAMPEONES",Es: M+ Campeones 2 HD
+http://visuales.xyz:8080/restreampropio/wM6S6uRQWkJh/159047
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 3 HD" tvg-name="M+ Campeones 3" tvg-logo="https://i.ibb.co/H7yHwVW/ligacampeones.png" group-title="LIGA CAMPEONES",M+ Campeones 3
+http://visuales.xyz:8080/restreampropio/wM6S6uRQWkJh/159048
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 4" tvg-name="M+ Liga de Campeones 4" tvg-logo="https://i.ibb.co/H7yHwVW/ligacampeones.png" group-title="LIGA CAMPEONES",M+ Liga de Campeones 4
+http://visuales.xyz:8080/restreampropio/wM6S6uRQWkJh/159050
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 5" tvg-name="M+ Liga de Campeones 5" tvg-logo="https://i.ibb.co/H7yHwVW/ligacampeones.png" group-title="LIGA CAMPEONES",M+ Liga de Campeones 5
+http://visuales.xyz:8080/restreampropio/wM6S6uRQWkJh/279295
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 5" tvg-name="M+ Liga de Campeones 5 HD" tvg-logo="https://i.ibb.co/H7yHwVW/ligacampeones.png" group-title="LIGA CAMPEONES",M+ Liga de Campeones 5 HD
+http://visuales.xyz:8080/restreampropio/wM6S6uRQWkJh/288936
+#EXTINF:-1 tvg-id="Es: LaLiga Hypermotion TV" tvg-name="Es: La Liga Hypermotion TV" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS.png" group-title="HYPERMOTION",Es: La Liga Hypermotion TV
+http://visuales.xyz:8080/restreampropio/wM6S6uRQWkJh/535993
+#EXTINF:-1 tvg-id="" tvg-name="Es: Dazn F1 HD" tvg-logo="http://husscom.com:8080/images/214f19050af27cb19a6581f52aaad817.png" group-title="DAZN",Es: Dazn F1 HD
+http://tv.diablotv.net:8080/joseflory/3Dtc5rWA67/156163
+#EXTINF:-1 tvg-id="DAZN F1 HD" tvg-name="Es: Dazn F1" tvg-logo="https://i.ibb.co/Q76p1tXw/f1.png" group-title="DAZN",Es: Dazn F1
+http://tv.diablotv.net:8080/joseflory/3Dtc5rWA67/161953
+#EXTINF:-1 tvg-id="" tvg-name="ES: Dazn 1 FHD" tvg-logo="http://husscom.com:8080/images/b4221206e3bc9a0e594799a4c025a288.png" group-title="DAZN",ES: Dazn 1 FHD
+http://tv.diablotv.net:8080/joseflory/3Dtc5rWA67/156148
+#EXTINF:-1 tvg-id="DAZN 1 HD" tvg-name="ES: DAZN 1" tvg-logo="https://i.ibb.co/TMpHfs60/dz1.png" group-title="DAZN",ES: DAZN 1
+http://tv.diablotv.net:8080/joseflory/3Dtc5rWA67/161922
+#EXTINF:-1 tvg-id="" tvg-name="ES: Dazn 2 FHD" tvg-logo="http://husscom.com:8080/images/0d2d22c13bb3e4142dbb3bafce8719d0.png" group-title="DAZN",ES: Dazn 2 FHD
+http://tv.diablotv.net:8080/joseflory/3Dtc5rWA67/161923
+#EXTINF:-1 tvg-id="DAZN 2 HD" tvg-name="ES: DAZN 2" tvg-logo="https://i.ibb.co/j9s4Rb14/dz2.png" group-title="DAZN",ES: DAZN 2
+http://tv.diablotv.net:8080/joseflory/3Dtc5rWA67/156151
+#EXTINF:-1 tvg-id="" tvg-name="Es: Dazn 3" tvg-logo="http://husscom.com:8080/images/7d1d94f2171e225f11abaa5c5cf19107.png" group-title="DAZN",Es: Dazn 3
+http://tv.diablotv.net:8080/joseflory/3Dtc5rWA67/161925
+#EXTINF:-1 tvg-id="" tvg-name="Es: Dazn Moto GP" tvg-logo="http://husscom.com:8080/images/289922c0985259972ec2345db6ebf95b.jpg" group-title="DAZN",Es: Dazn Moto GP
+http://tv.diablotv.net:8080/joseflory/3Dtc5rWA67/191951
+#EXTINF:-1 tvg-id="" tvg-name="Es: M+" tvg-logo="http://husscom.com:8080/images/5efbc128e02167cacb6f99d488e176a8.png" group-title="DEPORTES",Es: M+
+http://visuales.xyz:8080/restreampropio/wM6S6uRQWkJh/298112
+#EXTINF:-1 tvg-id="" tvg-name="Es: M+ Vamos HD" tvg-logo="http://husscom.com:8080/images/100e8323f9c357c593f4e7579a56d5cf.png" group-title="DEPORTES",Es: M+ Vamos HD
+http://tv.diablotv.net:8080/joseflory/3Dtc5rWA67/8134
+#EXTINF:-1 tvg-id="M+ Vamos HD" tvg-name="Es: M+ Vamos" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/VAMOSD.png" group-title="DEPORTES",Es: M+ Vamos
+http://visuales.xyz:8080/restreampropio/wM6S6uRQWkJh/165046
+#EXTINF:-1 tvg-id="M+ Vamos 2" tvg-name="Es: M+ Vamos 2" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/VAM2SD.png" group-title="DEPORTES",Es: M+ Vamos 2
+http://visuales.xyz:8080/restreampropio/wM6S6uRQWkJh/995959
+#EXTINF:-1 tvg-id="M+ Deportes HD" tvg-name="Movistar Deportes 1 HD" tvg-logo="https://i.ibb.co/f4PrgJ8/CPDEP.png" group-title="DEPORTES",Movistar Deportes 1 HD
+http://visuales.xyz:8080/restreampropio/wM6S6uRQWkJh/136653
+#EXTINF:-1 tvg-id="M+ Deportes 2 HD" tvg-name="Movistar Deportes 2 HD" tvg-logo="https://i.ibb.co/xGbqNq0/ARTHUR.png" group-title="DEPORTES",Movistar Deportes 2 HD
+http://visuales.xyz:8080/restreampropio/wM6S6uRQWkJh/292315
+#EXTINF:-1 tvg-id="M+ Deportes 3" tvg-name="Movistar Deportes 3 HD" tvg-logo="https://i.ibb.co/c3tqLGh/USOP2.png.png" group-title="DEPORTES",Movistar Deportes 3 HD
+http://visuales.xyz:8080/restreampropio/wM6S6uRQWkJh/279528
+#EXTINF:-1 tvg-id="M+ Deportes 4" tvg-name="Movistar Deportes 4 HD" tvg-logo="https://i.ibb.co/m8PJV0f/USOP3.png" group-title="DEPORTES",Movistar Deportes 4 HD
+http://visuales.xyz:8080/restreampropio/wM6S6uRQWkJh/279531
+#EXTINF:-1 tvg-id="M+ Deportes 5" tvg-name="Movistar Deportes 5 HD" tvg-logo="https://i.ibb.co/CQ20gZ7/USOP11.png" group-title="DEPORTES",Movistar Deportes 5 HD
+http://visuales.xyz:8080/restreampropio/wM6S6uRQWkJh/279534
+#EXTINF:-1 tvg-id="M+ Golf HD" tvg-name="Es: M+ Golf" tvg-logo="http://husscom.com:8080/images/28955cc03865ff11dbb3ddb67b1d2e2b.png" group-title="DEPORTES",Es: M+ Golf
+http://visuales.xyz:8080/restreampropio/wM6S6uRQWkJh/136656
+#EXTINF:-1 tvg-id="M+ Golf 2 HD" tvg-name="Es: M+ Golf 2 HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/GOLF2.png" group-title="DEPORTES",Es: M+ Golf 2 HD
+http://visuales.xyz:8080/restreampropio/wM6S6uRQWkJh/494064
+#EXTINF:-1 tvg-id="M+ Ellas Vamos HD" tvg-name="Es: M. Ellas" tvg-logo="https://i.ibb.co/ZBMzCGt/MELLAV.png" group-title="DEPORTES",Es: M. Ellas
+http://visuales.xyz:8080/restreampropio/wM6S6uRQWkJh/291869
+#EXTINF:-1 tvg-id="M+ Ellas Vamos HD" tvg-name="Es: M. Ellas HD 2" tvg-logo="https://i.ibb.co/ZBMzCGt/MELLAV.png" group-title="DEPORTES",Es: M. Ellas HD 2
+http://visuales.xyz:8080/restreampropio/wM6S6uRQWkJh/767907
+#EXTINF:-1 tvg-id="" tvg-name="Es: EuroSport 1 HD" tvg-logo="http://husscom.com:8080/images/c321ef6b880e11b4055bde715577ee13.jpg" group-title="DEPORTES",Es: EuroSport 1 HD
+http://tv.diablotv.net:8080/joseflory/3Dtc5rWA67/161908
+#EXTINF:-1 tvg-id="" tvg-name="Es: EuroSport 1" tvg-logo="http://husscom.com:8080/images/c321ef6b880e11b4055bde715577ee13.jpg" group-title="DEPORTES",Es: EuroSport 1
+http://tv.diablotv.net:8080/joseflory/3Dtc5rWA67/161919
+#EXTINF:-1 tvg-id="" tvg-name="Es: EuroSport 2 HD" tvg-logo="http://husscom.com:8080/images/e6a67d271c9241e2dc7dec31ec525aa3.jpg" group-title="DEPORTES",Es: EuroSport 2 HD
+http://tv.diablotv.net:8080/joseflory/3Dtc5rWA67/8181
+#EXTINF:-1 tvg-id="" tvg-name="Es: EuroSport 2" tvg-logo="http://husscom.com:8080/images/e6a67d271c9241e2dc7dec31ec525aa3.jpg" group-title="DEPORTES",Es: EuroSport 2
+http://tv.diablotv.net:8080/joseflory/3Dtc5rWA67/161958
+#EXTINF:-1 tvg-id="" tvg-name="ES: Padre de Familia 24H" tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/2E5B143307E5B3F08D2577198DF5467A4990AD70A8DA9C7EE7E799A018A4F307/scale?width=506&aspectRatio=2.00&format=webp" group-title="24/7",ES: Padre de Familia 24H
+http://visuales.xyz:8080/restreampropio/wM6S6uRQWkJh/397174
+#EXTINF:-1 tvg-id="" tvg-name="Cine Disney 24/7" tvg-logo="https://static.epg.best/es/DisneyXD.es.png" group-title="24/7",Cine Disney 24/7
+http://visuales.xyz:8080/restreampropio/wM6S6uRQWkJh/55849
+#EXTINF:-1 tvg-id="" tvg-name="ES: Futurama HD 24H" tvg-logo="https://i.pinimg.com/564x/0d/d6/db/0dd6db337c7e9e0416c43546bf2183fe.jpg" group-title="24/7",ES: Futurama HD 24H
+http://visuales.xyz:8080/restreampropio/wM6S6uRQWkJh/397173
+#EXTINF:-1 tvg-id="" tvg-name="ES: Los Simpsons La casa-árbol del terror HD 24H" tvg-logo="https://i.pinimg.com/736x/c2/87/6f/c2876f7606e6850d351484b46850a016.jpg" group-title="24/7",ES: Los Simpsons La casa-árbol del terror HD 24H
+http://visuales.xyz:8080/restreampropio/wM6S6uRQWkJh/397170
 #EXTINF:-1 tvg-id="" tvg-name="TRECE" tvg-logo="https://scontent.fvlc4-1.fna.fbcdn.net/v/t39.30808-1/309192564_508875984579114_8242850008910154638_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=103&ccb=1-7&_nc_sid=08baa4&_nc_ohc=Q7YVTlbQS_wQ7kNvwEFP2SJ&_nc_oc=AdrUgyp0uvHuoRNKo5QJFR4zwiztEOJUeHHTrIgixY9Vq_LQ8SztZB4SocWJZBMdZbo&_nc_zt=24&_nc_ht=scontent.fvlc4-1.fna&edm=AKsJ254EAAAA&_nc_gid=pmogVU4K7sJwm3fy1Ej15Q&oh=00_Af13VJMkFrEyF_R2tEapUCzwCF1-DmnQoWNlkk5mHreB4w&oe=69F64EC5" group-title="TDT",TRECE
 http://tv.diablotv.net:8080/Enrique2026/BCBp8HN3fYeh/161949
 #EXTINF:-1 tvg-id="" tvg-name="Es: Divinity" tvg-logo="http://husscom.com:8080/images/48d82df633697c1b623f6a7824a8941c.png" group-title="TDT",Es: Divinity
